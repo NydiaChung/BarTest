@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarTest</string>
+    <string name="function">功能：\n1。推动下面的滑竿后，上面的进度条会同步 \n2.滑动到最大值时，最上面的进度条消失.</string>
+</resources>
